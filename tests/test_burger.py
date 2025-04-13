@@ -1,8 +1,7 @@
 from praktikum.burger import Burger
 from conftest import *
-import pytest
 import allure
-
+import pytest
 
 
 class TestBurger:
